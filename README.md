@@ -1,2 +1,0 @@
-# BlakeT
-My GitHub
